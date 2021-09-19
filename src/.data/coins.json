@@ -1,0 +1,6 @@
+[
+    {"name": "ビックカメラ　池上店", "latitude": 35.577840, "longitude": 139.700490, "image": "https://www.biccamera.co.jp/img/logo04.png", "kinds": [0]},
+    {"name": "ビックカメラ 宇都宮本店", "latitude": 36.571759, "longitude": 139.915554, "image": "https://www.biccamera.co.jp/img/logo04.png", "kinds": [0]},
+    {"name": "ビックカメラ　成城店", "latitude": 35.632878, "longitude": 139.605035, "image": "https://www.biccamera.co.jp/img/logo04.png", "kinds": [0]},
+    {"name": "うなぎ料理専門店 川昌本店", "latitude": 35.946634, "longitude": 139.831329, "image": "https://nem-map.com/wp-content/uploads/2018/04/unagi-kawashou-nem-xem-payment-860x573.png", "kinds": [0,2]}
+]
